@@ -10,5 +10,5 @@
 | Actividad | Codigo |
 | ----------|--------|
 | Act 1 | [Codigo](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PRACTICOS-III/tree/897e60e324412fdac29b72e41f307e9338cbf4ed/Codigos/Act1) [Video]() |
-| Act2 | [Codigo]() [Video]() |
+| Act2 | [Codigo](https://github.com/JesusTalatOteroHernandez/EJERCICIOS-PRACTICOS-III/tree/042ea279b928dc8317abd0fca7d4333ab54d3ffd/Codigos/Act2) [Video]() |
 | Act 3 | [Codigo]() [Video]() |
